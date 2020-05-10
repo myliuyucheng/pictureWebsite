@@ -19,7 +19,7 @@
 #### 作品展示
 ![](pageDisplay/workslist.png)
 #### 作品详情
-![](https://github.com/myliuyucheng/pictureWebsite/blob/master/pageDisplay/worksdetails.png)
+![](https://raw.githubusercontent.com/myliuyucheng/pictureWebsite/blob/master/pageDisplay/worksdetails.png)
 #### 用户列表
 ![](https://github.com/myliuyucheng/pictureWebsite/blob/master/pageDisplay/userlist.png)
 #### 用户首页
