@@ -17,7 +17,7 @@
 
 ### 前台
 #### 作品展示
-![](https://github.com/myliuyucheng/pictureWebsite/blob/master/pageDisplay/workslist.png)
+![地方](https://github.com/myliuyucheng/pictureWebsite/blob/master/pageDisplay/workslist.png)
 #### 作品详情
 ![](https://github.com/myliuyucheng/pictureWebsite/blob/master/pageDisplay/worksdetails.png)
 #### 用户列表
